@@ -5,7 +5,7 @@
 	<h2 style="color: red;font-size: 30px" align="center">Your web application is successfully deployed !!!</h2>
 
 
-<h2> This is release1 branch </h2
+<h2> This is release1 branch </h2>
 
 
 </body>
